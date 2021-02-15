@@ -1,3 +1,4 @@
 # jukebox
 
-WIP Full stack web app for practice with Django & React
+Full stack web app for practice with Django & React
+Room creator must have Spotify premium
